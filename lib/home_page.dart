@@ -47,7 +47,7 @@ class _HomePageState extends State<HomePage> {
                         items: [
                           DropdownMenuItem(
                             child: Text(
-                              'Solar System',
+                              'Human Anatomy',
                               style: TextStyle(
                                 fontFamily: 'Avenir',
                                 fontSize: 24,
@@ -120,7 +120,7 @@ class _HomePageState extends State<HomePage> {
                                           textAlign: TextAlign.left,
                                         ),
                                         Text(
-                                          'Solar System',
+                                          'Human Anatomy',
                                           style: TextStyle(
                                             fontFamily: 'Avenir',
                                             fontSize: 23,
@@ -158,20 +158,20 @@ class _HomePageState extends State<HomePage> {
                               tag: planets[index].position,
                               child: Image.asset(planets[index].iconImage),
                             ),
-                            // Positioned(
-                            //   right: 24,
-                            //   bottom: 60,
-                            //   child: Text(
-                            //     planets[index].position.toString(),
-                            //     style: TextStyle(
-                            //       fontFamily: 'Avenir',
-                            //       fontSize: 200,
-                            //       color: primaryTextColor.withOpacity(0.08),
-                            //       fontWeight: FontWeight.w900,
-                            //     ),
-                            //     textAlign: TextAlign.left,
-                            //   ),
-                            // ),
+                            Positioned(
+                              right: 24,
+                              bottom: 60,
+                              child: Text(
+                                planets[index].position.toString(),
+                                style: TextStyle(
+                                  fontFamily: 'Avenir',
+                                  fontSize: 200,
+                                  color: primaryTextColor.withOpacity(0.08),
+                                  fontWeight: FontWeight.w900,
+                                ),
+                                textAlign: TextAlign.left,
+                              ),
+                            ),
                           ],
                         ),
                       );

@@ -35,7 +35,7 @@ class DetailPage extends StatelessWidget {
                           textAlign: TextAlign.left,
                         ),
                         Text(
-                          'Solar System',
+                          'Human Anatomy',
                           style: TextStyle(
                             fontFamily: 'Avenir',
                             fontSize: 31,
