@@ -1,6 +1,6 @@
-# hackathon
+# Application (IIITV Hackathon)
 
-A new Flutter project.
+This Application includes anatomies which we are displaying thorugh AR in our entire IIITV Hackathon project.
 
 ## Getting Started
 
