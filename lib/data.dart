@@ -19,51 +19,58 @@ List<PlanetInfo> planets = [
       name: 'Skull',
       iconImage: 'assets/skull.png',
       description:
-          "Zipping around the sun in only 88 days, Mercury is the closest planet to the sun, and it's also the smallest, only a little bit larger than Earth's moon. Because its so close to the sun (about two-fifths the distance between Earth and the sun), Mercury experiences dramatic changes in its day and night temperatures: Day temperatures can reach a scorching 840  F (450 C), which is hot enough to melt lead. Meanwhile on the night side, temperatures drop to minus 290 F (minus 180 C).",
+          "The skull is a bony structure that forms the head in vertebrates. It supports the structures of the face and provides a protective cavity for the brain.[1] The skull is composed of two parts: the cranium and the mandible. In humans, these two parts are the neurocranium and the viscerocranium (facial skeleton) that includes the mandible as its largest bone.",
       images: [
-        'https://cdn.pixabay.com/photo/2013/07/18/10/57/mercury-163610_1280.jpg',
-        'https://cdn.pixabay.com/photo/2014/07/01/11/38/planet-381127_1280.jpg',
-        'https://cdn.pixabay.com/photo/2015/06/26/18/48/mercury-822825_1280.png',
-        'https://image.shutterstock.com/image-illustration/mercury-high-resolution-images-presents-600w-367615301.jpg'
+        'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Human_skull_side_simplified_%28bones%29.svg/1280px-Human_skull_side_simplified_%28bones%29.svg.png',
+        'https://images-na.ssl-images-amazon.com/images/I/61jL3Wx-xCL._SL1000_.jpg',
+        'https://www.extremetech.com/wp-content/uploads/2013/03/Skulls.jpg',
       ]),
   PlanetInfo(2,
       name: 'Brain',
       iconImage: 'assets/brain.png',
       description:
-          "The second planet from the sun, Venus is Earth's twin in size. Radar images beneath its atmosphere reveal that its surface has various mountains and volcanoes. But beyond that, the two planets couldn't be more different. Because of its thick, toxic atmosphere that's made of sulfuric acid clouds, Venus is an extreme example of the greenhouse effect. It's scorching-hot, even hotter than Mercury. The average temperature on Venus' surface is 900 F (465 C). At 92 bar, the pressure at the surface would crush and kill you. And oddly, Venus spins slowly from east to west, the opposite direction of most of the other planets.",
+          "Brain, the mass of nerve tissue in the anterior end of an organism. The brain integrates sensory information and directs motor responses; in higher vertebrates it is also the centre of learning. The human brain weighs approximately 1.4 kg (3 pounds) and is made up of billions of cells called neurons. Junctions between neurons, known as synapses, enable electrical and chemical messages to be transmitted from one neuron to the next in the brain, a process that underlies basic sensory functions and that is critical to learning, memory and thought formation, and other cognitive activities.",
       images: [
-        'https://cdn.pixabay.com/photo/2011/12/13/14/39/venus-11022_1280.jpg',
-        'https://image.shutterstock.com/image-photo/solar-system-venus-second-planet-600w-515581927.jpg'
+        'https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/image_article_collections/anatomy_pages/brain2.jpg?resize=646px:*&output-quality=100',
+        'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRSEjOfEyJJ_VVuPzEnAjJ5X50_NzCbXuzMA&usqp=CAU',
+        'https://valientemott.com/wp-content/uploads/2020/06/Brain-Stem-Injury-1030x1030.jpg',
       ]),
   PlanetInfo(3,
       name: 'Eye',
       iconImage: 'assets/eyes.png',
       description:
-          "The third planet from the sun, Earth is a waterworld, with two-thirds of the planet covered by ocean. It's the only world known to harbor life. Earth's atmosphere is rich in nitrogen and oxygen. Earth's surface rotates about its axis at 1,532 feet per second (467 meters per second) — slightly more than 1,000 mph (1,600 kph) — at the equator. The planet zips around the sun at more than 18 miles per second (29 km per second).",
+          "The human eye belongs to a general group of eyes found in nature called \"camera-type eyes.\" Just as a camera lens focuses light onto film, a structure in the eye called the cornea focuses light onto a light-sensitive membrane called the retina. ",
       images: [
-        'https://cdn.pixabay.com/photo/2011/12/13/14/31/earth-11015_1280.jpg',
-        'https://cdn.pixabay.com/photo/2011/12/14/12/11/astronaut-11080_1280.jpg',
-        'https://cdn.pixabay.com/photo/2016/01/19/17/29/earth-1149733_1280.jpg',
-        'https://image.shutterstock.com/image-photo/3d-render-planet-earth-viewed-600w-1069251782.jpg'
+        'https://www.thoughtco.com/thmb/sO8KYrH667TVSMSxQn5tK23ios8=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-695204442-b9320f82932c49bcac765167b95f4af6.jpg',
+        'https://cdn.zmescience.com/wp-content/uploads/2012/10/human-eye-evolution.jpg',
       ]),
   PlanetInfo(4,
       name: 'Lungs',
       iconImage: 'assets/lungs.png',
       description:
-          "The fourth planet from the sun is Mars, and it's a cold, desert-like place covered in dust. This dust is made of iron oxides, giving the planet its iconic red hue. Mars shares similarities with Earth: It is rocky, has mountains, valleys and canyons, and storm systems ranging from localized tornado-like dust devils to planet-engulfing dust storms. ",
-      images: []),
+          "The lungs are a pair of spongy, air-filled organs located on either side of the chest (thorax). The trachea (windpipe) conducts inhaled air into the lungs through its tubular branches, called bronchi. The bronchi then divide into smaller and smaller branches (bronchioles), finally becoming microscopic. ",
+      images: [
+        'https://cdn.britannica.com/88/91188-050-420043F1/site-bronchioles-lungs-oxygen-respiration-process-carbon.jpg',
+        'https://cdn.mos.cms.futurecdn.net/i5Nn5wDrpntkLMxQb4EA85.jpg',
+      ]),
   PlanetInfo(5,
       name: 'Spine',
       iconImage: 'assets/spine.png',
       description:
-          "The fifth planet from the sun, Jupiter is a giant gas world that is the most massive planet in our solar system — more than twice as massive as all the other planets combined, according to NASA. Its swirling clouds are colorful due to different types of trace gases. And a major feature in its swirling clouds is the Great Red Spot, a giant storm more than 10,000 miles wide. It has raged at more than 400 mph for the last 150 years, at least. Jupiter has a strong magnetic field, and with 75 moons, it looks a bit like a miniature solar system.",
-      images: []),
+          "Vertebral column, also called spinal column, spine, or backbone, in vertebrate animals, the flexible column extending from neck to tail, made of a series of bones, the vertebrae. The major function of the vertebral column is protection of the spinal cord; it also provides stiffening for the body and attachment for the pectoral and pelvic girdles and many muscles. In humans an additional function is to transmit body weight in walking and standing.",
+      images: [
+        'https://cdn.britannica.com/57/54757-050-BFEEBA04/Human-vertebral-column.jpg',
+        'https://artofcontrol.com/wp-content/uploads/2019/02/Spinal-Postures.jpg'
+      ]),
   PlanetInfo(6,
       name: 'Skeleton',
       iconImage: 'assets/Untitled.png',
       description:
-          "The sixth planet from the sun, Saturn is known most for its rings. When polymath Galileo Galilei first studied Saturn in the early 1600s, he thought it was an object with three parts: a planet and two large moons on either side. Not knowing he was seeing a planet with rings, the stumped astronomer entered a small drawing — a symbol with one large circle and two smaller ones — in his notebook, as a noun in a sentence describing his discovery. More than 40 years later, Christiaan Huygens proposed that they were rings. The rings are made of ice and rock and scientists are not yet sure how they formed. The gaseous planet is mostly hydrogen and helium and has numerous moons.",
-      images: []),
+          "Human skeleton, the internal skeleton that serves as a framework for the body. This framework consists of many individual bones and cartilages. There also are bands of fibrous connective tissue—the ligaments and the tendons—in intimate relationship with the parts of the skeleton. This article is concerned primarily with the gross structure and the function of the skeleton of the normal human adult.",
+      images: [
+        'https://medlineplus.gov/ency/images/ency/fullsize/9065.jpg',
+        'https://thumbs.dreamstime.com/b/human-man-skeleton-anatomy-front-view-vector-isolated-flat-illustration-skull-bones-body-halloween-medical-educational-183473760.jpg',
+      ]),
   // PlanetInfo(7,
   //     name: 'Uranus',
   //     iconImage: 'assets/eyes.png',
